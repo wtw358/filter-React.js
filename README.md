@@ -1,5 +1,6 @@
 This is my cs1300 development assignment. I use React.js to create a live filtering page.
-<img src="https://github.com/wtw358/filter-React.js/blob/master/picture/sample.png" alt="alt text" width="550" height="400">
+
+<img src="https://github.com/wtw358/filter-React.js/blob/master/picture/sample.png" alt="alt text" width="450" height="400">
 ## Setup ##
 
 ### Install Packages ###
