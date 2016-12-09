@@ -1,10 +1,6 @@
-# CS1300 Development Assignment Template
-
+This is my cs1300 development assignment. I use React.js to create a live filtering page.
+<img src="https://github.com/wtw358/filter-React.js/picture/sample.png" alt="alt text" width="850" height="450">
 ## Setup ##
-
-### Clone Repository ###
-Open up terminal, go to a folder where you want put this project and run  
-`https://github.com/yarai/cs1300-development.git`
 
 ### Install Packages ###
 In order to use React, we first need to install different external packages (aka javascript/css frameworks that other people wrote). I have already created a list of dependencies needed (in `package.json`) but you will need to install them into your local computer by doing the following:
@@ -44,17 +40,3 @@ Once you have made changes in your code and gulp successfully compiles, you can 
   * This will create a server from the cs1300-development directory
   * If you do not have python you can download it [here](https://www.python.org/downloads/) (download python 2.7)
 * Now on your browser, go to localhost:8000 to see your app!
-
-## Alternative Templates ##
-If you have tried working with this template but are having issues that you cannot resolve (such as the box never showing up, javscript file being broken, etc.), you can use the following alternative:  
-https://github.com/facebookincubator/create-react-app
-
-## More Resources ##
-
-### React ###
-https://facebook.github.io/react/docs/thinking-in-react.html  
-https://scotch.io/tutorials/learning-react-getting-started-and-concepts  
-http://ricostacruz.com/cheatsheets/react.html  
-
-## For the curious ##
-Here are some more technical things about this repository in case you are curious.
